@@ -1,3 +1,6 @@
+# Allow frontend folder to be included
+!frontend/
+
 # Ignore all node_modules folders
 node_modules/
 backend/node_modules/
