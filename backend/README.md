@@ -84,8 +84,6 @@ Tested upload and verified new images appear in backend.
 
 Day 3 Finalization
 
-Cleaned code and organized folder structure.
-
 Prepared README documentation (this file).
 
 Verified backend and frontend run correctly.
